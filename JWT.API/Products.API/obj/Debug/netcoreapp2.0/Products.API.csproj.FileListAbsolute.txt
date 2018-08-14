@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\Products.API.deps.json
+c:\users\user\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\Products.API.runtimeconfig.json
+c:\users\user\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\Products.API.runtimeconfig.dev.json
+c:\users\user\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\Products.API.dll
+c:\users\user\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\Products.API.csprojAssemblyReference.cache
+c:\users\user\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\Products.API.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\Products.API.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\Products.API.AssemblyInfo.cs
+c:\users\user\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\Products.API.pdb
+c:\users\user\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\Products.API.dll
+c:\users\user\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\Products.API.pdb

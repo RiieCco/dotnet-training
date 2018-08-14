@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  deserialization.api:
+    image: ${DOCKER_REGISTRY}deserializationapi
+    build:
+      context: .
+      dockerfile: Deserialization.API/Dockerfile

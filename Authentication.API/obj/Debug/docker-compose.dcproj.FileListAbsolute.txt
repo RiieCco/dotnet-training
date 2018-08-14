@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\Authentication.API\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

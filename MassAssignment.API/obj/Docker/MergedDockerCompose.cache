@@ -1,0 +1,11 @@
+services:
+  massassignment.api:
+    build:
+      context: c:\users\user\source\repos\MassAssignment.API
+      dockerfile: MassAssignment.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: massassignmentapi
+    ports:
+    - target: 80
+version: '3.4'

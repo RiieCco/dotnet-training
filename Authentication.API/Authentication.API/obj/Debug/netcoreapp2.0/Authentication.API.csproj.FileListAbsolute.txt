@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Authentication.API\Authentication.API\bin\Debug\netcoreapp2.0\Authentication.API.deps.json
+C:\Users\User\source\repos\Authentication.API\Authentication.API\bin\Debug\netcoreapp2.0\Authentication.API.runtimeconfig.json
+C:\Users\User\source\repos\Authentication.API\Authentication.API\bin\Debug\netcoreapp2.0\Authentication.API.runtimeconfig.dev.json
+C:\Users\User\source\repos\Authentication.API\Authentication.API\bin\Debug\netcoreapp2.0\Authentication.API.dll
+C:\Users\User\source\repos\Authentication.API\Authentication.API\obj\Debug\netcoreapp2.0\Authentication.API.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Authentication.API\Authentication.API\obj\Debug\netcoreapp2.0\Authentication.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Authentication.API\Authentication.API\obj\Debug\netcoreapp2.0\Authentication.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Authentication.API\Authentication.API\obj\Debug\netcoreapp2.0\Authentication.API.AssemblyInfo.cs
+C:\Users\User\source\repos\Authentication.API\Authentication.API\bin\Debug\netcoreapp2.0\Authentication.API.pdb
+C:\Users\User\source\repos\Authentication.API\Authentication.API\obj\Debug\netcoreapp2.0\Authentication.API.dll
+C:\Users\User\source\repos\Authentication.API\Authentication.API\obj\Debug\netcoreapp2.0\Authentication.API.pdb

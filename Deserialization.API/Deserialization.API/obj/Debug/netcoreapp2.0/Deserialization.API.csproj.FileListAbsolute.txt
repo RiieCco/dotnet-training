@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.API.deps.json
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.API.runtimeconfig.json
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.API.runtimeconfig.dev.json
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.API.dll
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.API.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.API.AssemblyInfo.cs
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.API.pdb
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.API.dll
+C:\Users\User\source\repos\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.API.pdb

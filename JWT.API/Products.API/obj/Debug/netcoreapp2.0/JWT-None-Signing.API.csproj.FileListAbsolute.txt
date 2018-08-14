@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\JWT-None-Signing.API.deps.json
+C:\Users\User\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\JWT-None-Signing.API.runtimeconfig.json
+C:\Users\User\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\JWT-None-Signing.API.runtimeconfig.dev.json
+C:\Users\User\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\JWT-None-Signing.API.dll
+C:\Users\User\source\repos\Products.API\Products.API\bin\Debug\netcoreapp2.0\JWT-None-Signing.API.pdb
+C:\Users\User\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\JWT-None-Signing.API.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\JWT-None-Signing.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\JWT-None-Signing.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\JWT-None-Signing.API.AssemblyInfo.cs
+C:\Users\User\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\JWT-None-Signing.API.dll
+C:\Users\User\source\repos\Products.API\Products.API\obj\Debug\netcoreapp2.0\JWT-None-Signing.API.pdb
