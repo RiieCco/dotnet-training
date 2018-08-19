@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  massassignment.api:
-    image: ${DOCKER_REGISTRY}massassignmentapi
-    build:
-      context: .
-      dockerfile: MassAssignment.API/Dockerfile

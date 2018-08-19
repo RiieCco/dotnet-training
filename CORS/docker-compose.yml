@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cors.api:
+    image: ${DOCKER_REGISTRY}corsapi
+    build:
+      context: .
+      dockerfile: CORS.API/Dockerfile

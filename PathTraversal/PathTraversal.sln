@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathTraversal.api", "PathTraversal.api\PathTraversal.api.csproj", "{E039121B-3E4B-4B9D-8997-972F400B583F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{172C8BA8-9361-44B1-A147-85E7F921DF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E039121B-3E4B-4B9D-8997-972F400B583F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E039121B-3E4B-4B9D-8997-972F400B583F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E039121B-3E4B-4B9D-8997-972F400B583F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E039121B-3E4B-4B9D-8997-972F400B583F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172C8BA8-9361-44B1-A147-85E7F921DF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172C8BA8-9361-44B1-A147-85E7F921DF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172C8BA8-9361-44B1-A147-85E7F921DF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172C8BA8-9361-44B1-A147-85E7F921DF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A899A5-4465-4814-BFF7-0D47C64C8D8C}
+	EndGlobalSection
+EndGlobal

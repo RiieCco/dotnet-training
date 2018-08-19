@@ -1,0 +1,11 @@
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\bin\Debug\netcoreapp2.0\ParameterBinding.API.deps.json
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\bin\Debug\netcoreapp2.0\ParameterBinding.API.runtimeconfig.json
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\bin\Debug\netcoreapp2.0\ParameterBinding.API.runtimeconfig.dev.json
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\bin\Debug\netcoreapp2.0\ParameterBinding.API.dll
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\obj\Debug\netcoreapp2.0\ParameterBinding.API.csprojAssemblyReference.cache
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\obj\Debug\netcoreapp2.0\ParameterBinding.API.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\obj\Debug\netcoreapp2.0\ParameterBinding.API.AssemblyInfoInputs.cache
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\obj\Debug\netcoreapp2.0\ParameterBinding.API.AssemblyInfo.cs
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\bin\Debug\netcoreapp2.0\ParameterBinding.API.pdb
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\obj\Debug\netcoreapp2.0\ParameterBinding.API.dll
+C:\Users\Riiecco\source\repos\ParameterBinding\ParameterBinding.API\obj\Debug\netcoreapp2.0\ParameterBinding.API.pdb

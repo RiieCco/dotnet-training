@@ -1,0 +1,11 @@
+services:
+  parameterbinding.api:
+    build:
+      context: C:\Users\Riiecco\source\repos\ParameterBinding
+      dockerfile: ParameterBinding.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: parameterbindingapi
+    ports:
+    - target: 80
+version: '3.4'

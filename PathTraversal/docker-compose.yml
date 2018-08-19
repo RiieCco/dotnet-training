@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pathtraversal.api:
+    image: ${DOCKER_REGISTRY}pathtraversalapi
+    build:
+      context: .
+      dockerfile: PathTraversal.api/Dockerfile

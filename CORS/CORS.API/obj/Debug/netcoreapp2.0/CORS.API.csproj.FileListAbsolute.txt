@@ -1,0 +1,11 @@
+c:\users\riiecco\source\repos\CORS\CORS.API\bin\Debug\netcoreapp2.0\CORS.API.deps.json
+c:\users\riiecco\source\repos\CORS\CORS.API\bin\Debug\netcoreapp2.0\CORS.API.runtimeconfig.json
+c:\users\riiecco\source\repos\CORS\CORS.API\bin\Debug\netcoreapp2.0\CORS.API.runtimeconfig.dev.json
+c:\users\riiecco\source\repos\CORS\CORS.API\bin\Debug\netcoreapp2.0\CORS.API.dll
+c:\users\riiecco\source\repos\CORS\CORS.API\obj\Debug\netcoreapp2.0\CORS.API.csprojAssemblyReference.cache
+c:\users\riiecco\source\repos\CORS\CORS.API\obj\Debug\netcoreapp2.0\CORS.API.csproj.CoreCompileInputs.cache
+c:\users\riiecco\source\repos\CORS\CORS.API\obj\Debug\netcoreapp2.0\CORS.API.AssemblyInfoInputs.cache
+c:\users\riiecco\source\repos\CORS\CORS.API\obj\Debug\netcoreapp2.0\CORS.API.AssemblyInfo.cs
+c:\users\riiecco\source\repos\CORS\CORS.API\bin\Debug\netcoreapp2.0\CORS.API.pdb
+c:\users\riiecco\source\repos\CORS\CORS.API\obj\Debug\netcoreapp2.0\CORS.API.dll
+c:\users\riiecco\source\repos\CORS\CORS.API\obj\Debug\netcoreapp2.0\CORS.API.pdb

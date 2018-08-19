@@ -24,9 +24,16 @@ namespace Deserialization.API.Controllers
         [HttpPost]
         public IActionResult Post([FromBody]Object value)
         {
-            _context.Add(value);
-            _context.SaveChanges();
-            return Ok();
+            try
+            {
+                _context.Add(value);
+                _context.SaveChanges();
+                return Ok();
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e);
+            }
         }
     }
 }

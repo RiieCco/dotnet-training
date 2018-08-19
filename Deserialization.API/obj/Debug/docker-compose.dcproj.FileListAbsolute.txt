@@ -1,0 +1,1 @@
+C:\Users\Riiecco\Desktop\dotnet-training\Deserialization.API\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
