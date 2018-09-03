@@ -1,0 +1,11 @@
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\bin\Debug\netcoreapp2.0\Dependencies.deps.json
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\bin\Debug\netcoreapp2.0\Dependencies.runtimeconfig.json
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\bin\Debug\netcoreapp2.0\Dependencies.runtimeconfig.dev.json
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\bin\Debug\netcoreapp2.0\Dependencies.dll
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\bin\Debug\netcoreapp2.0\Dependencies.pdb
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\obj\Debug\netcoreapp2.0\Dependencies.csprojAssemblyReference.cache
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\obj\Debug\netcoreapp2.0\Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\obj\Debug\netcoreapp2.0\Dependencies.AssemblyInfoInputs.cache
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\obj\Debug\netcoreapp2.0\Dependencies.AssemblyInfo.cs
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\obj\Debug\netcoreapp2.0\Dependencies.dll
+C:\Users\Riiecco\source\repos\Dependencies\Dependencies\obj\Debug\netcoreapp2.0\Dependencies.pdb

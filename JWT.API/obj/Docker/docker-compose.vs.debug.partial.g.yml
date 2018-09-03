@@ -7,15 +7,14 @@ services:
       target: base
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
-      - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_products.api$
     volumes:
-      - C:\Users\User\source\repos\Products.API\Products.API:/app
-      - C:\Users\User\vsdbg\vs2017u5:/remote_debugger:ro
-      - C:\Users\User\.nuget\packages\:/root/.nuget/packages:ro
-      - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:/root/.nuget/fallbackpackages:ro
+      - C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API:/app
+      - C:\Users\Riiecco\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_products.api$
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages --additionalProbingPath /root/.nuget/fallbackpackages  bin/Debug/netcoreapp2.0/Products.API.dll"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_products.api$ bin/Debug/netcoreapp2.0/JWT.API.dll"
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""

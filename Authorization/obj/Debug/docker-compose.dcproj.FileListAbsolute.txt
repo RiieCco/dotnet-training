@@ -1,0 +1,2 @@
+c:\users\riiecco\source\repos\CORS\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Riiecco\source\repos\Authorization\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

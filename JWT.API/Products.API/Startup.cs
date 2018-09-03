@@ -34,17 +34,6 @@ namespace Products.API
         {
 
             services.AddMemoryCache();
-            /*
-            services.Configure<MvcOptions>(options =>
-            {
-                options.Filters.Add(new RequireHttpsAttribute());
-            });
-            */
-
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new Info { Title = "My API", Version = "v1" });
-            });
 
             services.AddDbContext<ProductContext>(options =>
                 options.UseSqlite("Data Source=test.db"));
@@ -74,6 +63,29 @@ namespace Products.API
                     };
                 });
 
+            // Register the Swagger generator, defining 1 or more Swagger documents
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info
+                {
+                    Version = "v1",
+                    Title = "Dotnet security training course",
+                    Description = "This part of the course covers the JWT issues. Here we are going to learn how to exploit and mitigate the attack",
+                    TermsOfService = "None",
+                    Contact = new Contact
+                    {
+                        Name = "Riccardo ten Cate",
+                        Email = string.Empty,
+                        Url = string.Empty
+                    },
+                    License = new License
+                    {
+                        Name = "Copyright 2018; Riccardo ten Cate/Glenn ten Cate",
+                        Url = "https://example.com/license"
+                    }
+                });
+                c.OperationFilter<Filters.CustomFilter.AuthHeaderFilter>();
+            });
             services.AddMvc();
         }
 
@@ -93,6 +105,17 @@ namespace Products.API
 
             app.UseAuthentication();
             app.UseSwagger();
+
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), 
+            // specifying the Swagger JSON endpoint.
+
+             
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
+
             app.UseMvc();
         }
     }

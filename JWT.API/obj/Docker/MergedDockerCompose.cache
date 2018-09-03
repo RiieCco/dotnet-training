@@ -1,7 +1,7 @@
 services:
   products.api:
     build:
-      context: C:\Users\User\source\repos\Products.API
+      context: C:\Users\Riiecco\Desktop\dotnet-training\JWT.API
       dockerfile: Products.API/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development

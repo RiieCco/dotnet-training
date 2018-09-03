@@ -43,7 +43,7 @@ namespace PathTraversal.api
                     },
                     License = new License
                     {
-                        Name = "Copyright 2018; Riccardo ten Cate",
+                        Name = "Copyright 2018; Riccardo ten Cate/Glenn ten Cate",
                         Url = "https://example.com/license"
                     }
                 });

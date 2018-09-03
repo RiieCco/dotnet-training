@@ -12782,9 +12782,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\PathTraversal.api.csproj",
-      "projectName": "PathTraversal.api",
-      "projectPath": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\PathTraversal.api.csproj",
+      "projectUniqueName": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\PathTraversal.csproj",
+      "projectName": "PathTraversal",
+      "projectPath": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\PathTraversal.csproj",
       "packagesPath": "C:\\Users\\Riiecco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\obj\\",
       "projectStyle": "PackageReference",

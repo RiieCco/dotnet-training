@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dependencies:
+    image: ${DOCKER_REGISTRY}dependencies
+    build:
+      context: .
+      dockerfile: Dependencies/Dockerfile

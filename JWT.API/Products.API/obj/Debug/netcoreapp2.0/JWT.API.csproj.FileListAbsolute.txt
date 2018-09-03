@@ -1,0 +1,11 @@
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\obj\Debug\netcoreapp2.0\JWT.API.csprojAssemblyReference.cache
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\obj\Debug\netcoreapp2.0\JWT.API.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\obj\Debug\netcoreapp2.0\JWT.API.AssemblyInfoInputs.cache
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\obj\Debug\netcoreapp2.0\JWT.API.AssemblyInfo.cs
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\bin\Debug\netcoreapp2.0\JWT.API.deps.json
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\bin\Debug\netcoreapp2.0\JWT.API.runtimeconfig.json
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\bin\Debug\netcoreapp2.0\JWT.API.runtimeconfig.dev.json
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\bin\Debug\netcoreapp2.0\JWT.API.dll
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\bin\Debug\netcoreapp2.0\JWT.API.pdb
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\obj\Debug\netcoreapp2.0\JWT.API.dll
+C:\Users\Riiecco\Desktop\dotnet-training\JWT.API\Products.API\obj\Debug\netcoreapp2.0\JWT.API.pdb
