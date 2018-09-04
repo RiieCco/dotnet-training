@@ -13,7 +13,7 @@ using Newtonsoft.Json;
 namespace Authorization.API.Controllers
 {
     [Produces("application/json")]
-    [Route("api/InsecureDirectObect")]
+    [Route("api/[controller]")]
     public class InsecureDirectObjectController : Controller
     {
         private readonly IdentityContext _myContext;
@@ -25,6 +25,9 @@ namespace Authorization.API.Controllers
             _httpContextAccessor = httpContextAccessor;
         }
 
+        /// <summary>
+        /// Gets a list of IdorValues per authenticated user 
+        /// </summary>
         // GET: api/Csrf
         [HttpGet]
         [Authorize]
@@ -37,6 +40,9 @@ namespace Authorization.API.Controllers
             return Ok(listJson);
         }
 
+        /// <summary>
+        /// Stores a new Idor value per authenticated user 
+        /// </summary>
         // POST: api/Csrf
         [HttpPost]
         [Authorize]
@@ -56,6 +62,9 @@ namespace Authorization.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Updates a new Idor value per authenticated user 
+        /// </summary>
         // PUT: api/Csrf/5
         [HttpPut("{id}")]
         [Authorize]
@@ -78,6 +87,10 @@ namespace Authorization.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Deletes a new Idor value per authenticated user 
+        /// </summary>
+        /// /// <param name="id">The ID of the Idor item</param>
         // DELETE: api/ApiWithActions/5
         [HttpDelete("{id}")]
         [Authorize]

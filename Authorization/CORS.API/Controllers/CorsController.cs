@@ -12,6 +12,10 @@ namespace CORS.API.Controllers
     [Route("api/Cors")]
     public class CorsController : Controller
     {
+
+        /// <summary>
+        /// Returns one secret value to be gotten from other server! 
+        /// </summary>
         // GET: api/Cors
         [HttpGet]
         [Authorize]

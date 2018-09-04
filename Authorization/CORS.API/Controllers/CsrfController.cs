@@ -16,6 +16,9 @@ namespace Authorization.API.Controllers
         private readonly IdentityContext _myContext;
         public CsrfController(IdentityContext myContext) { _myContext = myContext; }
 
+        /// <summary>
+        /// Get a list of the privateData 
+        /// </summary>
         // GET: api/Csrf
         [HttpGet]
         [Authorize]
@@ -25,7 +28,10 @@ namespace Authorization.API.Controllers
             var listJson = JsonConvert.SerializeObject(list);
             return Ok(listJson);
         }
-        
+
+        /// <summary>
+        /// Add privateData 
+        /// </summary>
         // POST: api/Csrf
         [HttpPost]
         [Authorize]
@@ -43,7 +49,11 @@ namespace Authorization.API.Controllers
                 return BadRequest("Storing the item has failed!");
             }
         }
-        
+
+        /// <summary>
+        /// Update privateData 
+        /// </summary>
+        /// /// <param name="id">The ID of the desired privateData</param>
         // PUT: api/Csrf/5
         [HttpPut("{id}")]
         [Authorize]
@@ -66,16 +76,27 @@ namespace Authorization.API.Controllers
                 return BadRequest("Update of the item has failed!");
             }
         }
-        
+
+        /// <summary>
+        /// Delete privateData 
+        /// </summary>
+        /// /// <param name="id">The ID of the desired privateData item</param>
         // DELETE: api/ApiWithActions/5
         [HttpDelete("{id}")]
         [Authorize]
         public void Delete(int id)
         {
-            CsrfModel csrf = new CsrfModel { PrivateDataId = id };
-            _myContext.Csrf.Attach(csrf);
-            _myContext.Csrf.Remove(csrf);
-            _myContext.SaveChanges();
+            try
+            {
+                CsrfModel csrf = new CsrfModel { PrivateDataId = id };
+                _myContext.Csrf.Attach(csrf);
+                _myContext.Csrf.Remove(csrf);
+                _myContext.SaveChanges();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\bin\Debug\netcoreapp2.0\Authorization.deps.json
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\bin\Debug\netcoreapp2.0\Authorization.runtimeconfig.json
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\bin\Debug\netcoreapp2.0\Authorization.runtimeconfig.dev.json
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\bin\Debug\netcoreapp2.0\Authorization.dll
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\bin\Debug\netcoreapp2.0\Authorization.pdb
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\obj\Debug\netcoreapp2.0\Authorization.csprojAssemblyReference.cache
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\obj\Debug\netcoreapp2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\obj\Debug\netcoreapp2.0\Authorization.AssemblyInfo.cs
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\obj\Debug\netcoreapp2.0\Authorization.dll
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\obj\Debug\netcoreapp2.0\Authorization.pdb
+C:\Users\Riiecco\Desktop\dotnet-training\Authorization\CORS.API\bin\Debug\netcoreapp2.0\Authorization.xml

@@ -31,9 +31,11 @@ namespace CORS.API.Controllers
                 _httpContextAccessor = httpContextAccessor;
             }
 
+        /// <summary>
+        /// Authenticate to API (uses session cookies) 
+        /// </summary>
         // POST api/values
         [HttpPost]
-        [Route("/api/login")]
         public async Task<IActionResult> Post([FromBody]LoginViewModel model)
         {
             var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, false, false);
@@ -49,6 +51,9 @@ namespace CORS.API.Controllers
             throw new ApplicationException("INVALID_LOGIN_ATTEMPT");
         }
 
+        /// <summary>
+        /// Add new user to API (uses session cookies) 
+        /// </summary>
         // PUT api/values/5
         [HttpPut]
         public async Task<IActionResult> Register([FromBody] RegisterViewModel model)
@@ -66,12 +71,6 @@ namespace CORS.API.Controllers
                 return Ok();
             }
             return NotFound();
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }

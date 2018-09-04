@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authorization</name>
+    </assembly>
+    <members>
+        <member name="M:CORS.API.Controllers.AuthenitcationController.Post(CORS.API.Controllers.LoginViewModel)">
+            <summary>
+            Authenticate to API (uses session cookies) 
+            </summary>
+        </member>
+        <member name="M:CORS.API.Controllers.AuthenitcationController.Register(CORS.API.Controllers.RegisterViewModel)">
+            <summary>
+            Add new user to API (uses session cookies) 
+            </summary>
+        </member>
+        <member name="M:CORS.API.Controllers.CorsController.Get">
+            <summary>
+            Returns one secret value to be gotten from other server! 
+            </summary>
+        </member>
+        <member name="M:Authorization.API.Controllers.CsrfController.Get">
+            <summary>
+            Get a list of the privateData 
+            </summary>
+        </member>
+        <member name="M:Authorization.API.Controllers.CsrfController.Post(Authorization.API.ViewModels.CsrfViewModel)">
+            <summary>
+            Add privateData 
+            </summary>
+        </member>
+        <member name="M:Authorization.API.Controllers.CsrfController.Put(System.Int32,Authorization.API.ViewModels.CsrfViewModel)">
+            <summary>
+            Update privateData 
+            </summary>
+            /// <param name="id">The ID of the desired privateData</param>
+        </member>
+        <member name="M:Authorization.API.Controllers.CsrfController.Delete(System.Int32)">
+            <summary>
+            Delete privateData 
+            </summary>
+            /// <param name="id">The ID of the desired privateData item</param>
+        </member>
+        <member name="M:Authorization.API.Controllers.InsecureDirectObjectController.Get">
+            <summary>
+            Gets a list of IdorValues per authenticated user 
+            </summary>
+        </member>
+        <member name="M:Authorization.API.Controllers.InsecureDirectObjectController.Post(Authorization.API.ViewModels.IdorViewModel)">
+            <summary>
+            Stores a new Idor value per authenticated user 
+            </summary>
+        </member>
+        <member name="M:Authorization.API.Controllers.InsecureDirectObjectController.Put(System.Int32,Authorization.API.ViewModels.IdorViewModel)">
+            <summary>
+            Updates a new Idor value per authenticated user 
+            </summary>
+        </member>
+        <member name="M:Authorization.API.Controllers.InsecureDirectObjectController.Delete(System.Int32)">
+            <summary>
+            Deletes a new Idor value per authenticated user 
+            </summary>
+            /// <param name="id">The ID of the Idor item</param>
+        </member>
+    </members>
+</doc>

@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using CORS.API.Models;
 using Microsoft.AspNetCore.Builder;
@@ -60,6 +62,12 @@ namespace CORS.API
                         Url = "https://example.com/license"
                     }
                 });
+
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.XML";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+
+                //... and tell Swagger to use those XML comments.
+                c.IncludeXmlComments(xmlPath);
             });
         }
 
