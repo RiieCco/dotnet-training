@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Deserialization</name>
+    </assembly>
+    <members>
+        <member name="M:Deserialization.API.Controllers.DeserializationAttackController.Get">
+            <summary>
+            Create a serialized XML file that can be found in the source-code
+            </summary>
+        </member>
+        <member name="M:Deserialization.API.Controllers.DeserializationAttackController.Post">
+            <summary>
+            Gets the serialized XML object to the deserialization function (from test.xml)
+            </summary>
+        </member>
+    </members>
+</doc>

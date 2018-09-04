@@ -17,6 +17,9 @@ namespace FileUpload.Controllers
             _environment = environment;
         }
 
+        /// <summary>
+        /// Upload a file, only image/jpeg is allowed!
+        /// </summary>
         // POST api/values
         [HttpPost]
         public IActionResult Post([FromForm]IFormFile value, string fileName)

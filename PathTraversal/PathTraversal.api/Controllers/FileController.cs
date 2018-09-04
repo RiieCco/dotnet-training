@@ -18,6 +18,9 @@ namespace PathTraversal.api.Controllers
             _environment = environment;
         }
 
+        /// <summary>
+        /// Is used to get content.txt (Payload =  "content.txt" )
+        /// </summary>
         // POST api/values
         [HttpPost]
         public IActionResult Post([FromBody]string filename)

@@ -6,6 +6,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using Swashbuckle.AspNetCore.Swagger;
+using System;
+using System.IO;
+using System.Reflection;
 
 //http://malwrforensics.com/en/2018/03/02/net-serialization-deserialization-basic-c-attack-example/
 
@@ -26,12 +29,37 @@ namespace Deserialization.API
 
             services.AddDbContext<UserContext>(options => options.UseSqlite("Data Source=test.db"));
 
+            // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "Deserialization", Version = "v1" });
-            });
+                c.SwaggerDoc("v1", new Info
+                {
+                    Version = "v1",
+                    Title = "Dotnet security training course",
+                    Description = "This part of the course covers the deserialization attack. Here we are going to learn how to exploit and mitigate the attack",
+                    TermsOfService = "None",
+                    Contact = new Contact
+                    {
+                        Name = "Riccardo ten Cate",
+                        Email = string.Empty,
+                        Url = string.Empty
+                    },
+                    License = new License
+                    {
+                        Name = "Copyright 2018; Riccardo ten Cate/Glenn ten Cate",
+                        Url = "https://example.com/license"
+                    }
+                });
 
-            services.AddMvc().AddJsonOptions(options =>
+
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.XML";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+
+                //... and tell Swagger to use those XML comments.
+                c.IncludeXmlComments(xmlPath);
+            });
+        
+        services.AddMvc().AddJsonOptions(options =>
             {
                 options.SerializerSettings.TypeNameHandling = TypeNameHandling.All;
             });

@@ -12782,11 +12782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riiecco\\source\\repos\\FileUpload\\FileUpload\\FileUpload.csproj",
+      "projectUniqueName": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\FileUpload\\FileUpload\\FileUpload.csproj",
       "projectName": "FileUpload",
-      "projectPath": "C:\\Users\\Riiecco\\source\\repos\\FileUpload\\FileUpload\\FileUpload.csproj",
+      "projectPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\FileUpload\\FileUpload\\FileUpload.csproj",
       "packagesPath": "C:\\Users\\Riiecco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riiecco\\source\\repos\\FileUpload\\FileUpload\\obj\\",
+      "outputPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\FileUpload\\FileUpload\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

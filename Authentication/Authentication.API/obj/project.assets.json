@@ -13369,11 +13369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Authentication.API\\Authentication.API\\Authentication.API.csproj",
+      "projectUniqueName": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Authentication\\Authentication.API\\Authentication.API.csproj",
       "projectName": "Authentication.API",
-      "projectPath": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Authentication.API\\Authentication.API\\Authentication.API.csproj",
+      "projectPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Authentication\\Authentication.API\\Authentication.API.csproj",
       "packagesPath": "C:\\Users\\Riiecco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Authentication.API\\Authentication.API\\obj\\",
+      "outputPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Authentication\\Authentication.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

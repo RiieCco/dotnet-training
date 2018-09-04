@@ -9,3 +9,15 @@ C:\Users\Riiecco\source\repos\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\File
 C:\Users\Riiecco\source\repos\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.csprojAssemblyReference.cache
 C:\Users\Riiecco\source\repos\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.dll
 C:\Users\Riiecco\source\repos\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.pdb
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\FileUpload.xml
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\FileUpload.deps.json
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\FileUpload.runtimeconfig.json
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\FileUpload.runtimeconfig.dev.json
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\FileUpload.dll
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\bin\Debug\netcoreapp2.0\FileUpload.pdb
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.csprojAssemblyReference.cache
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.AssemblyInfoInputs.cache
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.AssemblyInfo.cs
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.dll
+C:\Users\Riiecco\Documents\dotnet-training\FileUpload\FileUpload\obj\Debug\netcoreapp2.0\FileUpload.pdb

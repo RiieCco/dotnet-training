@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  parameterbinding.api:
-    image: ${DOCKER_REGISTRY}parameterbindingapi
-    build:
-      context: .
-      dockerfile: ParameterBinding.API/Dockerfile

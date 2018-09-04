@@ -15,6 +15,9 @@ namespace Deserialization.API.Controllers
             _context = context;
         }
 
+        /// <summary>
+        /// Create a serialized XML file that can be found in the source-code
+        /// </summary>
         // POST api/values
         [Route("api/deserialize")]
         [HttpGet]
@@ -26,6 +29,9 @@ namespace Deserialization.API.Controllers
             return Ok();
         }
 
+        /// <summary>
+        /// Gets the serialized XML object to the deserialization function (from test.xml)
+        /// </summary>
         // POST api/values
         [Route("api/deserialize")]
         [HttpPost]

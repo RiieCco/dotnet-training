@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PathTraversal</name>
+    </assembly>
+    <members>
+        <member name="M:PathTraversal.api.Controllers.FileController.Post(System.String)">
+            <summary>
+            Is used to get content.txt (Payload =  "content.txt" )
+            </summary>
+        </member>
+    </members>
+</doc>

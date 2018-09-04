@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authentication.API</name>
+    </assembly>
+    <members>
+        <member name="M:Authentication.API.Controllers.AccountController.Login(Authentication.API.ViewModels.LoginViewModel)">
+            <summary>
+            Authenticate user to the API and generate JWT (header auth)
+            </summary>
+        </member>
+        <member name="M:Authentication.API.Controllers.AccountController.Register(Authentication.API.ViewModels.RegisterViewModel)">
+            <summary>
+            Add a new user to the API and generate JWT (header auth)
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -20,6 +20,9 @@ namespace Products.API.Controllers
             _productContext = context ?? throw new ArgumentNullException(nameof(context));
         }
 
+        /// <summary>
+        /// Get the response 200 OK to solve the challenge (Not with normal JWT ofc!)
+        /// </summary>
         // GET: retrieve al the products 
         [HttpGet]
         [Authorize]

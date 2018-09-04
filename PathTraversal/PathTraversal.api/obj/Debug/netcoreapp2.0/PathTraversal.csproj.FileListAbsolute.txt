@@ -1,0 +1,12 @@
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\bin\Debug\netcoreapp2.0\PathTraversal.deps.json
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\bin\Debug\netcoreapp2.0\PathTraversal.runtimeconfig.json
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\bin\Debug\netcoreapp2.0\PathTraversal.runtimeconfig.dev.json
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\bin\Debug\netcoreapp2.0\PathTraversal.dll
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\bin\Debug\netcoreapp2.0\PathTraversal.pdb
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\obj\Debug\netcoreapp2.0\PathTraversal.csprojAssemblyReference.cache
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\obj\Debug\netcoreapp2.0\PathTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\obj\Debug\netcoreapp2.0\PathTraversal.AssemblyInfoInputs.cache
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\obj\Debug\netcoreapp2.0\PathTraversal.AssemblyInfo.cs
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\obj\Debug\netcoreapp2.0\PathTraversal.dll
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\obj\Debug\netcoreapp2.0\PathTraversal.pdb
+C:\Users\Riiecco\Documents\dotnet-training\PathTraversal\PathTraversal.api\bin\Debug\netcoreapp2.0\PathTraversal.xml

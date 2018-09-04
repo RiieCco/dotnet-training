@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FileUpload</name>
+    </assembly>
+    <members>
+        <member name="M:FileUpload.Controllers.UploadController.Post(Microsoft.AspNetCore.Http.IFormFile,System.String)">
+            <summary>
+            Upload a file, only image/jpeg is allowed!
+            </summary>
+        </member>
+    </members>
+</doc>

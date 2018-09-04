@@ -34,6 +34,9 @@ namespace Authentication.API.Controllers
                     _configuration = configuration;
                 }
 
+        /// <summary>
+        /// Authenticate user to the API and generate JWT (header auth)
+        /// </summary>
         [HttpPost]
         public async Task<object> Login([FromBody] LoginViewModel model)
         {
@@ -49,6 +52,9 @@ namespace Authentication.API.Controllers
             throw new ApplicationException("INVALID_LOGIN_ATTEMPT");
         }
 
+        /// <summary>
+        /// Add a new user to the API and generate JWT (header auth)
+        /// </summary>
         [HttpPut]
         public async Task<object> Register([FromBody] RegisterViewModel model)
         {

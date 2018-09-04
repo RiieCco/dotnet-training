@@ -13369,11 +13369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Deserialization.API\\Deserialization.API\\Deserialization.csproj",
+      "projectUniqueName": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Deserialization\\Deserialization.API\\Deserialization.csproj",
       "projectName": "Deserialization",
-      "projectPath": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Deserialization.API\\Deserialization.API\\Deserialization.csproj",
+      "projectPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Deserialization\\Deserialization.API\\Deserialization.csproj",
       "packagesPath": "C:\\Users\\Riiecco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Deserialization.API\\Deserialization.API\\obj\\",
+      "outputPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Deserialization\\Deserialization.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

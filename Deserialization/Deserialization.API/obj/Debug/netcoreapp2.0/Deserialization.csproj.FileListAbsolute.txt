@@ -20,3 +20,15 @@ C:\Users\Riiecco\Desktop\dotnet-training\Deserialization.API\Deserialization.API
 C:\Users\Riiecco\Desktop\dotnet-training\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.AssemblyInfo.cs
 C:\Users\Riiecco\Desktop\dotnet-training\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.dll
 C:\Users\Riiecco\Desktop\dotnet-training\Deserialization.API\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.pdb
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.xml
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.deps.json
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.runtimeconfig.json
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.runtimeconfig.dev.json
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.dll
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\bin\Debug\netcoreapp2.0\Deserialization.pdb
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.csprojAssemblyReference.cache
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.AssemblyInfoInputs.cache
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.AssemblyInfo.cs
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.dll
+C:\Users\Riiecco\Documents\dotnet-training\Deserialization\Deserialization.API\obj\Debug\netcoreapp2.0\Deserialization.pdb

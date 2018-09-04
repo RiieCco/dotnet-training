@@ -13370,11 +13370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Authorization\\CORS.API\\Authorization.csproj",
+      "projectUniqueName": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Authorization\\CORS.API\\Authorization.csproj",
       "projectName": "Authorization",
-      "projectPath": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Authorization\\CORS.API\\Authorization.csproj",
+      "projectPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Authorization\\CORS.API\\Authorization.csproj",
       "packagesPath": "C:\\Users\\Riiecco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riiecco\\Desktop\\dotnet-training\\Authorization\\CORS.API\\obj\\",
+      "outputPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\Authorization\\CORS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

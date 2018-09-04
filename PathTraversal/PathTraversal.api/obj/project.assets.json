@@ -12782,11 +12782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\PathTraversal.csproj",
+      "projectUniqueName": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\PathTraversal\\PathTraversal.api\\PathTraversal.csproj",
       "projectName": "PathTraversal",
-      "projectPath": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\PathTraversal.csproj",
+      "projectPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\PathTraversal\\PathTraversal.api\\PathTraversal.csproj",
       "packagesPath": "C:\\Users\\Riiecco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riiecco\\source\\repos\\PathTraversal\\PathTraversal.api\\obj\\",
+      "outputPath": "C:\\Users\\Riiecco\\Documents\\dotnet-training\\PathTraversal\\PathTraversal.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

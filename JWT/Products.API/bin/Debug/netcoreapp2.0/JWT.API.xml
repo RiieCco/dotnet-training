@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JWT.API</name>
+    </assembly>
+    <members>
+        <member name="M:Products.API.Controllers.ProductController.GetProducts">
+            <summary>
+            Get the response 200 OK to solve the challenge (Not with normal JWT ofc!)
+            </summary>
+        </member>
+    </members>
+</doc>
