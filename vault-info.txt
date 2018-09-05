@@ -1,0 +1,31 @@
+https://www.vaultproject.io/downloads.html
+
+Step01:
+vault server -dev
+
+Step02:
+set VAULT_ADDR='http://127.0.0.1:8200'
+
+Step03:
+vault status
+
+Step04:
+vault kv put secret/hello foo=world
+
+Step05:
+vault kv put secret/hello foo=world excited=yes
+
+Step06:
+vault kv get secret/hello
+
+Step07:
+vault kv delete secret/hello
+
+step08:
+vault secrets enable totp
+
+Step09:
+vault write totp/keys/<CHOOSE YOUR OWN VALUE> generate=true issuer=Vault account_name=<YOUR OWN EMAIL>
+
+Step10:
+vault write totp/code/my-user code=<THE CODE FROM AUTHENTICATOR>
